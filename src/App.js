@@ -1,11 +1,12 @@
-import React from "react";
+import React from "react"
+import Hero from "./components/Hero/Hero"
 
 function App() {
   return (
     <div>
-      hello
+      <Hero />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
