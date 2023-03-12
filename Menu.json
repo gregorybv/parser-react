@@ -1,0 +1,27 @@
+[
+  {
+  "login": "login-1 ",
+  "password": "1-00001855",
+  "itemDescription": "какие-то данные"
+  },
+  {
+    "login": "login-2",
+    "password": "2-00002270",
+    "itemDescription": "какие-то новые данные"
+  },
+  {
+    "login": "login-3",
+    "password": "3-00002240",
+    "itemDescription": "снова какие-то данные"
+  },
+  {
+    "login": "login-4",
+    "password": "4-00002240",
+    "itemDescription": "снова какие-то новые данные"
+  },
+  {
+    "login": "login-5",
+    "password": "5-00002240",
+    "itemDescription": "и так слишком много слов))"
+  }
+]
