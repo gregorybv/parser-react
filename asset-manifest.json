@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/parser-react/static/css/main.2ea974b1.css",
+    "main.js": "/parser-react/static/js/main.dccc43a0.js",
+    "static/media/logoGB.svg": "/parser-react/static/media/logoGB.74d92fca4098b49468b9e622c292207b.svg",
+    "index.html": "/parser-react/index.html",
+    "main.2ea974b1.css.map": "/parser-react/static/css/main.2ea974b1.css.map",
+    "main.dccc43a0.js.map": "/parser-react/static/js/main.dccc43a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ea974b1.css",
+    "static/js/main.dccc43a0.js"
+  ]
+}
